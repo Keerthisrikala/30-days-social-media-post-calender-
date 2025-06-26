@@ -1,1 +1,13 @@
-# 30-days-social-media-post-calender-
+# Digitalmarketing
+
+**company**: CODTECH IT SOLUTIONS
+
+**NAME**: K.KEERTHI SRI
+
+**INTERN ID**: CT06DN920
+
+**DOMAIN**: DIGITAL MARKETING 
+
+**DURATION**: 6 WEEKS 
+
+**MENTOR**: NEELA SANTOSH 
